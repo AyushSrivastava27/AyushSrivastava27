@@ -10,9 +10,7 @@ Python and Django Developer
 * 🤝  I'm open to collaborating on Pyhton and Django projects
 
 <a href="https://www.github.com/AyushSrivastava27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AyushSrivastava27?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ayushh_sri" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ayushh_sri?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/AyushSrivastava27?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
