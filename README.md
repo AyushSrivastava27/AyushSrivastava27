@@ -9,8 +9,7 @@ Python and Django Developer
 * 🧠  I'm learning Python and its Framework
 * 🤝  I'm open to collaborating on Pyhton and Django projects
 
-<a href="https://www.github.com/AyushSrivastava27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AyushSrivastava27?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p> <img src="https://komarev.com/ghpvc/?username=AyushSrivastava27&label=Profile%20views&color=ce9927&style=flat" alt="AyushSrivastava27" /> </p>
 
 ### Skills
 
