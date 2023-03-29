@@ -7,7 +7,7 @@ Python and Django Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ayushsrivastava8427@gmail.com](mailto:ayushsrivastava8427@gmail.com)
 * 🧠  I'm learning Python and its Framework
-* 🤝  I'm open to collaborating on Pyhton and Django projects
+* 🤝  I'm open to collaborating on Python and Django projects
 
 <p> <img src="https://komarev.com/ghpvc/?username=AyushSrivastava27&label=Profile%20views&color=ce9927&style=flat" alt="AyushSrivastava27" /> </p>
 
