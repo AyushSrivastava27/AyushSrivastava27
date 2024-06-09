@@ -1,4 +1,4 @@
-Hi 👋 My name is Ayush Srivastava
+Hi 👋 My name is Ayush
 =================================
 
 Passionate Data Science Enthusiast
